@@ -1,5 +1,7 @@
 [![redux auth](https://github.com/lynndylanhurley/redux-auth/raw/master/docs/images/redux-auth-logo.gif)](https://github.com/lynndylanhurley/redux-auth)
 
+## Forked from https://github.com/lynndylanhurley/redux-auth to remove un-needed view components
+
 ### Simple, secure authentication for react + redux
 
 [![npm version](https://badge.fury.io/js/redux-auth.svg)](https://badge.fury.io/js/redux-auth)
